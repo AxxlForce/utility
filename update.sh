@@ -1,3 +1,5 @@
+# add this to your .bashrc: alias update='sudo sh ~/update.sh'
+
 apt-get update
 apt-get upgrade -y
 apt-get dist-upgrade -y
